@@ -58,4 +58,8 @@ Full Stack Developer with experience **since 2019**, working across digital mark
 ---
 
 ### 📫 Contact  
-For more info, visit my website or find me on LinkedIn, Twitter, and GitHub through the contact section at [jonathanroddev.com](https://www.jonathanroddev.com/#contact).
+- 🌐 Website: [jonathanroddev.com](https://www.jonathanroddev.com/?utm_source=github)  
+- 💼 LinkedIn: [linkedin.com/in/jonathan-rodríguez-mendoza-091717191](https://www.linkedin.com/in/jonathan-rodr%C3%ADguez-mendoza-091717191)  
+- 🐙 GitHub: [github.com/jonathanroddev](https://github.com/jonathanroddev)  
+- 🐦 Twitter (X): [x.com/jonathanrodmen](https://x.com/jonathanrodmen)
+
